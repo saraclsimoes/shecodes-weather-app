@@ -3,5 +3,7 @@ h1 {
   text-align: center;
 }
 img {
-  align-items: center;
+  border-radius: 10px;
+  border-color: orangered;
+  border-width: 10px;
 }
